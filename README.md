@@ -33,7 +33,7 @@ Get instant notifications about:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/amazing-data.git
+git clone https://abdullahcoded.blogspot.com
 ```
 
 2. Install required dependencies:
